@@ -1,0 +1,7 @@
+Cleanser;1
+Moisturizer;1
+Cleanser;1
+Moisturizer;1
+Sunscreen;1
+Serum;1
+Toner;1
